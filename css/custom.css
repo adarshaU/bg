@@ -1,0 +1,111 @@
+body{background:none;}
+.navbar.navbar-default.navbar-fixed-top {
+    background-color: white;
+}
+.logo1 {
+    margin: -11px !important;
+    padding: 0;
+    position: relative;
+    top: 0;
+}
+.navbar {
+    border: 1px solid transparent;
+    margin-bottom: 20px;
+    min-height: 50px;
+    position: fixed;
+}
+
+
+
+.slider-wrapper.theme-default {
+    background-color: #b76843;
+    height: 430px;
+    padding: 10px;
+}
+.widget{
+
+    background-color: #b76843;
+}
+.middle {
+    position: relative;
+    top: 200px;
+}
+body {
+    background: none repeat scroll 0 0 #eee;
+    color: #333;
+    font: 14px/1.6 Georgia,Palatino,Palatino Linotype,Times,Times New Roman,serif;
+}
+#footer {
+    background-color: black;
+    color: white;
+    padding: 30px;
+    text-align: center;
+}
+
+.nav > .active > a {
+    background: none repeat scroll 0 0 #d63901 !important;
+    color: white !important;
+    padding-bottom: 17px;
+    padding-top: 19px;
+}
+.navbar-default .navbar-nav > li > a {
+    color: #d63901;
+    padding-bottom: 17px;
+    padding-top: 19px;
+}
+.widget > .carousel {
+    margin: 0 -2px -3px;
+}
+.cc{
+	margin: 0 auto;
+padding: 0;
+align-self:center;
+text-align: center;
+float:none;
+width: 100%;
+position: relative;
+}
+.carousel-control {
+    bottom: 0;
+    color: white;
+    font-size: 30px;
+    left: 0;
+    opacity: 1;
+    position: absolute;
+    text-align: center;
+    text-shadow: none;
+    top: 0;
+    width: 6%;
+}
+.center-text {
+    bottom: 0;
+    color: white;
+    font-size: 2em;
+    left: 0;
+    opacity: 1;
+    position: absolute;
+    text-align: center;
+    text-shadow: none;
+    top: 0;
+    width: 6%;
+}
+.center-text {
+    bottom: 0;
+    color: white;
+  
+   
+    opacity: 1;
+    position: absolute;
+    text-align: center;
+    text-shadow: none;
+    top: 0;
+    width: 100%;
+}
+.center-text {
+    display: inline-block;
+    top: 43%;  
+    
+}
+.font-red {
+    font-size: 1.2em;
+}
